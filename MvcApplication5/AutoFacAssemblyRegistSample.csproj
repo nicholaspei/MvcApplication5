@@ -182,6 +182,7 @@
     <Compile Include="Models\IModelUser.cs" />
     <Compile Include="Models\ModelCar.cs" />
     <Compile Include="Models\ModelUser.cs" />
+    <Compile Include="Models\NewModelCar.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

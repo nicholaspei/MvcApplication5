@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Clay.Sample</id>
+    <version>1.0</version>
+    <title>Clay.Sample</title>
+    <authors>Outercurve Foundation</authors>
+    <owners>Outercurve Foundation</owners>
+    <licenseUrl>http://www.opensource.org/licenses/ms-pl</licenseUrl>
+    <projectUrl>http://clay.codeplex.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This package contains samples that demonstrate the use of the Clay library.</description>
+    <summary>This package contains samples that demonstrate the use of the Clay library.</summary>
+    <dependencies>
+      <dependency id="Clay" version="1.0" />
+    </dependencies>
+    <references />
+  </metadata>
+</package>

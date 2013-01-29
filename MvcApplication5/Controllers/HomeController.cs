@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using MvcApplication5.Models;
+using Autofac.Features.Indexed;
 
 namespace MvcApplication5.Controllers
 {

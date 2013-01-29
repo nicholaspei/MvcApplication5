@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Clay</id>
+    <version>1.0</version>
+    <title>Clay</title>
+    <authors>Outercurve Foundation</authors>
+    <owners>Outercurve Foundation</owners>
+    <licenseUrl>http://www.opensource.org/licenses/ms-pl</licenseUrl>
+    <projectUrl>http://clay.codeplex.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Clay is a dynamic C# type that will enable you to sculpt objects of any shape just as easily as in JavaScript or other dynamic languages.</description>
+    <summary>Clay is a dynamic C# type library.</summary>
+    <tags>c# dynamic</tags>
+    <dependencies>
+      <dependency id="Castle.DynamicProxy" version="2.1.0" />
+    </dependencies>
+    <references>
+      <reference file="ClaySharp.dll" />
+    </references>
+  </metadata>
+</package>

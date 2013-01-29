@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Castle.Core</id>
+    <version>1.1.0</version>
+    <title>Castle.Core</title>
+    <authors>Jonathon Rossi &amp; Krzysztof Kozmic</authors>
+    <owners>Jonathon Rossi &amp; Krzysztof Kozmic</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Core of the castle project</description>
+    <summary>Core of the castle project</summary>
+    <dependencies>
+      <dependency id="log4net" />
+    </dependencies>
+    <references>
+      <reference file="Castle.Core.dll" />
+    </references>
+  </metadata>
+</package>
